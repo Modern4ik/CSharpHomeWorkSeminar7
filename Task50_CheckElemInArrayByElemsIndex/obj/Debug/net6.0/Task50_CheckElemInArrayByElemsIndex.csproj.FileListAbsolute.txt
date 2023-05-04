@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\bin\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\bin\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\bin\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\bin\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\bin\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\refint\Task50_CheckElemInArrayByElemsIndex.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\Task50_CheckElemInArrayByElemsIndex.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar7\Task50_CheckElemInArrayByElemsIndex\obj\Debug\net6.0\ref\Task50_CheckElemInArrayByElemsIndex.dll
