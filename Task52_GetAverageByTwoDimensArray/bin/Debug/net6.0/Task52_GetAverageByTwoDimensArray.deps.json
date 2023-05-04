@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task52_GetAverageByTwoDimensArray/1.0.0": {
+        "runtime": {
+          "Task52_GetAverageByTwoDimensArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task52_GetAverageByTwoDimensArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
